@@ -1,6 +1,3 @@
-
-
-
 #include<iostream>
 #include<iomanip>
 #define PI 3.14 //Symbolic constant 
@@ -10,8 +7,7 @@
  cout<<A;
  cout<<endl<<b;
 
-
-
+  
  int r;
  cout<<"Enter the radius ";
  cin>>r;
